@@ -4,7 +4,7 @@ This is a landing page made for a construction company called Asercon, located i
 
 ## Description
 
-This project has 5 main functionalities: A fixed navbar, a lightbox for images a slider, information tabs and parallax images.
+This project has 6 main functionalities: A fixed navbar, a lightbox for images a slider, information tabs, parallax images and burguer menu for mobile version.
 
 It is based on HTML, CSS (preprocessed with Less) and Javascript.
 
