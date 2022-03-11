@@ -45,6 +45,10 @@ code .
 - Twitter: [@OsorioDevelops](hhttps://twitter.com/@OsorioDevelops)
 - LinkedIn: [Carlos Osorio](https://www.linkedin.com/in/carlos-osorio-developer/)
 
+## To add:
+
+- Refactor it to use React.
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
